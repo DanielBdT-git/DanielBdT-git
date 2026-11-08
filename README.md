@@ -1,4 +1,6 @@
-## Hi there 👋
+I'm currently working on a website for the NWPSA Stu's News club. It uses Astro, which I'm just now learning :)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=danielbdt-git&langs_count=5&layout=compact&theme=tokyonight&border_radius=12&border_color=242832&bg_color=45,16181D,1C2027)
 
 <!--
 **DanielBdT-git/DanielBdT-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
